@@ -6,6 +6,8 @@ public class Hello {
 
 		
 		System.out.println("Hello from TL");
+		
+		System.out.println("Hello");
 	}
 
 }
